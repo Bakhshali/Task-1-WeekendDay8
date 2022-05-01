@@ -1,0 +1,14 @@
+C:\Users\tu78rfrfu\source\repos\WekeendsDay8\WekeendsDay8\bin\Debug\netcoreapp3.1\WekeendsDay8.exe
+C:\Users\tu78rfrfu\source\repos\WekeendsDay8\WekeendsDay8\bin\Debug\netcoreapp3.1\WekeendsDay8.deps.json
+C:\Users\tu78rfrfu\source\repos\WekeendsDay8\WekeendsDay8\bin\Debug\netcoreapp3.1\WekeendsDay8.runtimeconfig.json
+C:\Users\tu78rfrfu\source\repos\WekeendsDay8\WekeendsDay8\bin\Debug\netcoreapp3.1\WekeendsDay8.runtimeconfig.dev.json
+C:\Users\tu78rfrfu\source\repos\WekeendsDay8\WekeendsDay8\bin\Debug\netcoreapp3.1\WekeendsDay8.dll
+C:\Users\tu78rfrfu\source\repos\WekeendsDay8\WekeendsDay8\bin\Debug\netcoreapp3.1\WekeendsDay8.pdb
+C:\Users\tu78rfrfu\source\repos\WekeendsDay8\WekeendsDay8\obj\Debug\netcoreapp3.1\WekeendsDay8.csproj.AssemblyReference.cache
+C:\Users\tu78rfrfu\source\repos\WekeendsDay8\WekeendsDay8\obj\Debug\netcoreapp3.1\WekeendsDay8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu78rfrfu\source\repos\WekeendsDay8\WekeendsDay8\obj\Debug\netcoreapp3.1\WekeendsDay8.AssemblyInfoInputs.cache
+C:\Users\tu78rfrfu\source\repos\WekeendsDay8\WekeendsDay8\obj\Debug\netcoreapp3.1\WekeendsDay8.AssemblyInfo.cs
+C:\Users\tu78rfrfu\source\repos\WekeendsDay8\WekeendsDay8\obj\Debug\netcoreapp3.1\WekeendsDay8.csproj.CoreCompileInputs.cache
+C:\Users\tu78rfrfu\source\repos\WekeendsDay8\WekeendsDay8\obj\Debug\netcoreapp3.1\WekeendsDay8.dll
+C:\Users\tu78rfrfu\source\repos\WekeendsDay8\WekeendsDay8\obj\Debug\netcoreapp3.1\WekeendsDay8.pdb
+C:\Users\tu78rfrfu\source\repos\WekeendsDay8\WekeendsDay8\obj\Debug\netcoreapp3.1\WekeendsDay8.genruntimeconfig.cache
